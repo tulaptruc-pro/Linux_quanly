@@ -4,7 +4,7 @@
 
 - Môn học: Linux
 - Chủ đề: Quản lý tiến trình và Shell Script
-- Sinh viên: Nguyễn Ngọc Tú
+- Sinh viên: Phạm Ngọc Tú
 
 ---
 
