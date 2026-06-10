@@ -60,37 +60,11 @@ kill PID
 
 ---
 
-## Hình ảnh minh chứng
 
 ### Tạo cấu trúc thư mục
 
 ![Tạo thư mục](images/tao_thu_muc.png)
 
-### Chạy tiến trình sleep
-
-![Sleep](images/chay_sleep.png)
-
-### Menu chương trình
-
-![Menu](images/monitor_menu.png)
-
-### Ghi log
-
-![Log](images/ghi_log.png)
-
-### Dừng tiến trình
-
-![Kill](images/dung_tien_trinh.png)
-
-### Sao lưu log
-
-![Backup](images/backup_log.png)
-
-### Đẩy GitHub
-
-![GitHub](images/github_push.png)
-
----
 
 ## Kết quả
 
